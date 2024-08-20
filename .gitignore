@@ -1,0 +1,13 @@
+~$*.xlsx
+# Ignore temporary files
+~*.*
+
+# Ignore Excel temporary files
+~$*.xlsx
+
+# Ignore Python bytecode
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
